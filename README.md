@@ -1,4 +1,4 @@
-# FiGuard Notebooks
+<img src="docs/logo.svg" alt="FiGuard" height="44" />
 
 Pre-built Colab notebooks for every FiGuard configuration pattern. Each notebook runs against the live sandbox (`sandbox.figuard.io`, key `sb_live_demo`) — no signup, no local setup required.
 
